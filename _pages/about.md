@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>Ankara, Turkey</p>
-<!--     <p>123 your address street</p>
+    <!--     <p>123 your address street</p>
     <p>Your City, State 12345</p> -->
 
 news: false  # includes a list of news items
