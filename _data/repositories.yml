@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ogozcelik
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ogozcelik/TurkishNamedEntityRecognition
+  - ogozcelik/mano-basic-computer
+  - ogozcelik/evolutionary-algorithms
+  - ogozcelik/sorting-algorithms
