@@ -11,22 +11,27 @@
 - title: Education
   type: time_table
   contents:
-    - title: BSc
-      institution: Middle East Technical University, Ankara, Turkey
-      year: 2021
+    - title: Master of Science
+      institution: Bilkent University, Ankara, Turkey
+      year: 2021-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Computer Engineering department
+        - My advisor is <a href="http://www.cs.bilkent.edu.tr/~canf/">Prof. Fazlı Can</a>
+        - title: Research topics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: 
-      institution: Ankara Ataturk Anatolian High School, Ankara, Turkey
-      year: 2016
+            - Misinformation detection
+            - Analysis of misinformation spread on online social networks 
+            
+    - title: Bachelor of Science
+      institution: Middle East Technical University, Ankara, Turkey
+      year: 2016 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Electronics Engineering department
+        - In the senior year I specialized on the computer science topics.
+        
+    - title: High School
+      institution: Ankara Ataturk Anatolian High School, Ankara, Turkey
+      year: 2012 - 2016
 
 - title: Experience
   type: time_table
