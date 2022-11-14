@@ -56,7 +56,7 @@
         - I learned about avionic systems and communication protocols, and used these information practically with some hands-on experiments.
 
     - title: Intern
-      institution: ARDEA - Project & Consulting
+      institution: <a href="https://www.ardea.com.tr/">ARDEA - Project & Consulting</a>
       year: 2019
       description:
         - I learned both industrial and technical information about solar, wind, and biogas energies. A 1.2 MW solar power plant project was made in every detail, along with technical drawings and calculations.
@@ -87,22 +87,22 @@
   type: time_table
   contents:
     - title: ALES - Academic Personnel and Postgraduate Education Entrance Exam
-      year: 2021 May
+      year: 2021
       description:
         -  Score -> 93.4/100 Rank -> 819 in 199,934 applicants
         
     - title: Dean's Honor List (x2)
-      year: 2020-2021 Fall & Spring
+      year: 2020-2021
       description:
         - 3.0/4.0 < Semester GPA < 3.5/4.0 
         
     - title: Dean's Honor List (x2)
-      year: 2019-2020 Fall & Spring
+      year: 2019-2020
       description: 
         -  3.0/4.0 < Semester GPA < 3.5/4.0
         
     - title: Dean's High Honor List
-      year: 2017-2018 Spring
+      year: 2017-2018
       description: 
         -  Semester GPA > 3.5/4.0
 
