@@ -1,11 +1,11 @@
 ---
 layout: page
 title: art
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /art/
+description: The collection of my paintings and sculptors.
 nav: true
-nav_order: 2
-display_categories: [art, fun]
+nav_order: 3
+display_categories: [sketch, acrylic, sculptor]
 horizontal: false
 ---
 
