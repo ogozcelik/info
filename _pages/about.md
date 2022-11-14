@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Will be soon.
+I am a natural language processing enthusiast interested in token classification, text classification, and morphologically rich languages. Furthermore, I am interested in sketching, painting and sculpting.
