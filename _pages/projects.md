@@ -2,7 +2,13 @@
 layout: page
 title: art
 permalink: /art/
-description: The collection of my paintings and sculptors.
+description: TRAVELLING TO ANOTHER TIMELINE AFTER FIRST MOVEMENT OF THE BRUSH. THE CANVAS NEEDS SOME COLORS OF MY MIND
+AT THE SAME TIME WHEN TIME STOPS AND FLOATING HOW?
+WHY I PAINT? DONT KNOW YET
+AT LEAST I KNOW THAT I FEEL BETTER
+
+HERE I SHARE MY ARTWORKS,
+I LOVE EACH OF THEM.
 nav: true
 nav_order: 3
 display_categories: [sketch, acrylic, sculptor]
