@@ -2,7 +2,7 @@
 layout: page
 title: art
 permalink: /art/
-description: TRAVELLING TO ANOTHER TIMELINE AFTER FIRST MOVEMENT OF THE BRUSH. THE CANVAS NEEDS SOME COLORS OF MY MIND<br>AT THE SAME TIME WHEN TIME STOPS AND FLOATING HOW?<br>WHY DO I PAINT? DON'T KNOW YET<br>AT LEAST I KNOW THAT I FEEL BETTER<br>HERE I SHARE MY ARTWORKS,<br>I LOVE EACH OF THEM.
+description: After the first brush stroke, travelling to another time space begins. The canvas needs some colors of my mind. At the same time, the time stops and surprisingly floats. How is it even possible? I also wonder why I paint. We don't know yet. At least I know that this feels piquant<br><br>The following are my artworks.
 nav: true
 nav_order: 3
 display_categories: [sketch, acrylic, sculptor]
