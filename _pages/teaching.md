@@ -4,7 +4,7 @@ title: talks
 permalink: /talks/
 description: Pictures, videos, and summaries of invited talks and conference presentations.
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [invited, conference]
 horizontal: false
 ---
