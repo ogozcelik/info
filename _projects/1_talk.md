@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML in a Nutshell: Recent Approaches to NLP
-description: ...
+title: Recent Approaches to NLP
+description: I was invited to give 2 hours of technical talk about the recent approach to NLP. 
 img: assets/img/gdsc_koc.jpg
 importance: 1
 category: invited
