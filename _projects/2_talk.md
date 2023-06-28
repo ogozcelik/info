@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to NLP
-description: I was invited to give a itrodcutorty NLP presentation for freshman students at Cankaya University. 
+description: I was invited by IEEE Student Club to give an introductory NLP presentation for freshman students at Cankaya University. 
 img: assets/img/cankaya_uni.jpg
 importance: 1
 category: invited
