@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Working at <a href="https://www.aselsan.com/en/research-and-development">ASELSAN Research Center</a></p>
     <p>Master student at <a href="https://w3.cs.bilkent.edu.tr/">Bilkent University, Department of Computer Engineering</a></p>
-    <p>Ankara, Turkey</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
