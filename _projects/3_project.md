@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Oil Paintings
-description: Click to see more! 
-img: assets/img/red_house.png
+description:
+img: assets/img/red_house.jpg
 importance: 1
 category: oil
 ---
