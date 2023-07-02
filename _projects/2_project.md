@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Click to see more!
-description: 
+title: Acrylic Paintings
+description: Click to see more! 
 img: assets/img/tranquility.png
 importance: 1
 category: acrylic
