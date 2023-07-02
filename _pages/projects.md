@@ -4,8 +4,8 @@ title: art
 permalink: /art/
 description: Brush strokes, colors, and canvases. I know canvases need some colors. Randomly or intentionally? It depends. I wonder why I paint by the way. At least I know that this feels piquant.<br><br>Let me show my artwork.
 nav: true
-nav_order: 3
-display_categories: [sketch, acrylic, sculptor]
+nav_order: 1
+display_categories: [oil, sketch, acrylic, watercolor]
 horizontal: true
 ---
 
