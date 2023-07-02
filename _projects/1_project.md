@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sketches
-description: Click to see more!
+description:
 img: assets/img/nude_1.jpg
 importance: 1
 category: sketch
