@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Working at <a href="https://www.aselsan.com/en/research-and-development">ASELSAN Research Center</a></p>
+    <p>Working at <a href="https://www.aselsan.com/en">ASELSAN</a></p>
     <p>Master student at <a href="https://w3.cs.bilkent.edu.tr/">Bilkent University, Department of Computer Engineering</a></p>
 
 news: false  # includes a list of news items
